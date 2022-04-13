@@ -1,0 +1,15 @@
+.filter-selection-block {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 60px;
+}
+
+.filter-selection-block * {
+    padding: 20px;
+    width: 40%;
+}
+
+.filter-selection-block option {
+    padding: 10px;
+}
